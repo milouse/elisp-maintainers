@@ -74,6 +74,16 @@ that explicit).
     - emacsql: https://github.com/skeeto/emacsql
     - nasm-mode: https://github.com/skeeto/nasm-mode
     - x86-lookup: https://github.com/skeeto/x86-lookup
+- Étienne Deparis
+  - own cgit: https://git.deparis.io/
+  - github: https://github.com/milouse
+  - blog: https://etienne.depar.is/a-ecrit/
+  - donate:
+    - liberapay: https://liberapay.com/milouse/
+    - paypal: https://www.paypal.me/milouse
+  - project:
+    - flycheck-grammalecte: https://git.deparis.io/flycheck-grammalecte/
+    - dracula-theme: https://github.com/dracula/emacs
 - Damien Cassou
   - github: https://github.com/DamienCassou
   - gitea: https://gitea.petton.fr/DamienCassou/
